@@ -1,0 +1,18 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "(index.js)",
+  "scripts": {
+    "test": "git respository:https://github.com/chan2ee/DoubleH.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git repository:https://github.com/chan2ee/DoubleH.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "chan_2ee",
+  "license": "ISC"
+}
